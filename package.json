@@ -1,0 +1,22 @@
+{
+  "name": "ReactNativeLybld",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.3",
+    "es6-enum": "^1.0.0",
+    "moment-timezone": "^0.5.0",
+    "react-native": "^0.20.0",
+    "react-native-icons": "^0.7.1",
+    "react-redux": "^4.4.0",
+    "redux": "^3.3.1",
+    "redux-thunk": "^1.0.3",
+    "whatwg-fetch": "^0.11.0"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.1.1"
+  }
+}
